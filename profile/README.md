@@ -22,7 +22,7 @@ This allows separating code repos or developer organizations of AI services and 
 This also allows writing among-device AI systems including Home Edge AI systems with Matter / SmartThings much easier.
 
 
-### [TAOS-CI](https://github.com/nnstreamer/TAOC-CI)
+### [TAOS-CI](https://github.com/nnstreamer/TAOS-CI)
 
 ### [AITT](https://github.com/nnstreamer/aitt)
 
